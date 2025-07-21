@@ -7,7 +7,7 @@
 
 ---
 
-**Paper**: [**ParaStudent: Generating and Evaluating Realistic Student Code by Teaching LLMs to Struggle**](TODO)
+**Paper**: [**ParaStudent: Generating and Evaluating Realistic Student Code by Teaching LLMs to Struggle**](https://www.arxiv.org/abs/2507.12674)
 
 **Authors**: [Mihran Miroyan*](https://mmiroyan.github.io/), [Rose Niousha*](https://www.linkedin.com/in/rose-niousha), [Joseph E. Gonzalez](https://people.eecs.berkeley.edu/~jegonzal/), [Gireeja Ranade](https://people.eecs.berkeley.edu/~gireeja/), [Narges Norouzi](https://nargesnorouzi.me//) (UC Berkeley)
 
@@ -34,5 +34,13 @@ Install all necessary dependencies: ``pip3 install -r requirements.txt``
 
 ## Citations
 ```
-TODO
+@misc{miroyan2025parastudentgeneratingevaluatingrealistic,
+      title={ParaStudent: Generating and Evaluating Realistic Student Code by Teaching LLMs to Struggle}, 
+      author={Mihran Miroyan and Rose Niousha and Joseph E. Gonzalez and Gireeja Ranade and Narges Norouzi},
+      year={2025},
+      eprint={2507.12674},
+      archivePrefix={arXiv},
+      primaryClass={cs.CY},
+      url={https://arxiv.org/abs/2507.12674}, 
+}
 ```
